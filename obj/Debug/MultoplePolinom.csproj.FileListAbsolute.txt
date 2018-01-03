@@ -1,0 +1,10 @@
+C:\Users\Fatos\source\repos\MultoplePolinom\MultoplePolinom\bin\Debug\MultoplePolinom.exe.config
+C:\Users\Fatos\source\repos\MultoplePolinom\MultoplePolinom\bin\Debug\MultoplePolinom.exe
+C:\Users\Fatos\source\repos\MultoplePolinom\MultoplePolinom\bin\Debug\MultoplePolinom.pdb
+C:\Users\Fatos\source\repos\MultoplePolinom\MultoplePolinom\obj\Debug\MultoplePolinom.csprojResolveAssemblyReference.cache
+C:\Users\Fatos\source\repos\MultoplePolinom\MultoplePolinom\obj\Debug\MultoplePolinom.Form1.resources
+C:\Users\Fatos\source\repos\MultoplePolinom\MultoplePolinom\obj\Debug\MultoplePolinom.Properties.Resources.resources
+C:\Users\Fatos\source\repos\MultoplePolinom\MultoplePolinom\obj\Debug\MultoplePolinom.csproj.GenerateResource.Cache
+C:\Users\Fatos\source\repos\MultoplePolinom\MultoplePolinom\obj\Debug\MultoplePolinom.csproj.CoreCompileInputs.cache
+C:\Users\Fatos\source\repos\MultoplePolinom\MultoplePolinom\obj\Debug\MultoplePolinom.exe
+C:\Users\Fatos\source\repos\MultoplePolinom\MultoplePolinom\obj\Debug\MultoplePolinom.pdb
